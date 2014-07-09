@@ -1,0 +1,62 @@
+body{
+	font-family: 'PT Sans Caption', sans-serif;
+	background-color: white;
+
+}
+
+.navbar-default{
+	background-color: white;
+	border: none;
+	color: rgb (69,178,169);
+}
+
+h1{
+	font-size: 30px;
+}
+
+h3{
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+.fa-paper-plane-o:before {
+content: "\f1d9";
+color: red;
+}
+
+.fa-file-text-o:before {
+content: "\f0f6";
+color: red;
+}
+
+.fa-trophy:before {
+content: "\f091";
+color: red;
+}
+
+.fa-heart:before {
+content: "\f004";
+color: rgb(69,178,169);
+}
+
+.fa-bullhorn:before {
+content: "\f0a1";
+color: red;
+}
+
+.bleuvert{
+	color: rgb(69,178,169);
+}
+
+
+a:hover{
+	text-decoration: red;
+}
+
+
+#footer{
+	padding: 20px;
+	color: rgb(69,178,169);
+}
+
+
+
